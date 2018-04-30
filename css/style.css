@@ -19,7 +19,7 @@ body {
 }
 
 /* Write all remaining styles here */
-.header {
+h1 {
 	color: #9caca6;
 	border: solid;
 	/*font-family: 'Libre Baskerville', 'Times New Roman', serif;*/
