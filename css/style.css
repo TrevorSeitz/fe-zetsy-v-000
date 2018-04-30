@@ -22,8 +22,10 @@ body {
 .header {
 	color: #9caca6;
 	border: solid;
-	font-size: 50;
+}
+.header p {
 
+	font-size: 50;
 }
 
 #photo-block {
