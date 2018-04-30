@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 .header {
 	color: #9caca6;
-	border: solid;
+	/*border: solid;*/
 	line-height: 10px;
 	font-size: 25pt;
 	font-weight: bold;
