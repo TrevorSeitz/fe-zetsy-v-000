@@ -21,6 +21,8 @@ body {
 /* Write all remaining styles here */
 .header {
 	color: #9caca6;
+	border: solid;
+
 }
 
 #photo-block {
