@@ -51,9 +51,12 @@ h2 {
 	background-color: white;
 	border-style: solid;
 	border-width: 5px;
-	border-color: #9caca6;
+	border-color: #717E7A;
 	margin: 1.5px 1px;
 	padding: 0px 1px;
+}
+.col-1:hover {
+	border-color: #9caca6
 }
 
 .footer {
