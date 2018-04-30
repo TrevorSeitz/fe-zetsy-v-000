@@ -22,7 +22,7 @@ body {
 .header {
 	color: #9caca6;
 	border: solid;
-
+	line-height: 60pt;
 	font-size: 50pt;
 }
 .header level-1 {
