@@ -24,7 +24,7 @@ body {
 	border: solid;
 	/*line-height: 10px;*/
 }
-.header level-1 {
+#level-1 {
 	/*font-size: 100pt;*/
 	font-size: 25pt;
 	font-weight: bold;
