@@ -23,11 +23,11 @@ body {
 	color: #9caca6;
 	border: solid;
 	/*line-height: 10px;*/
-	font-size: 25pt;
-	font-weight: bold;
 }
 .header level-1 {
 	/*font-size: 100pt;*/
+	font-size: 25pt;
+	font-weight: bold;
 }
 
 #photo-block {
