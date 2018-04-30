@@ -1,20 +1,40 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 /*////////// Global Styles //////////*/
 
 body {
-	background: #F3EBE9;
+	background: #F6F0EE;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Libre Baskerville', 'Times New Roman', serif;
 }
 
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	background: #fff;
+	/*background: #fff;*/
 	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
+.header {
+	color: #9caca6;
+}
+
+#photo-block {
+	border-style: solid;
+	border-width: thick;;
+	border-color: #9caca6;
+}
+
+.col-1 {
+	float: left;
+	width: 24%;
+	background-color: white;
+	border-style: solid;
+	border-width: medium;
+	border-color: #9caca6;
+	z-index: 1;
+}
