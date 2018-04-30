@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@font-face { font-family: : 'baskerville';
+@font-face { font-family: : 'Baskerville';
 src: url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 }
 
@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 .header {
-	font-family: : 'baskerville', serif;
+	font-family: : 'Baskerville', serif;
 	color: #9caca6;
 	margin: 0 0 5px;
 	border-bottom: 1px solid;
