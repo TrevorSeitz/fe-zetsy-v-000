@@ -25,12 +25,8 @@ body {
 h1 {
 	color: #9caca6;
 	border: solid;
-	font-weight: bold;
-}
-
-#level-1 {
-	font-size: 25pt;
-	font-weight: bold;
+		font-size: 25pt;
+		font-weight: bold;
 }
 
 #photo-block {
