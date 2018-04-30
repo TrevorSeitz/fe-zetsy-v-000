@@ -30,6 +30,11 @@ body {
 	/*font-weight: bold;*/
 }
 
+h1 {
+	margin: 0;
+	font-size: 1em;
+}
+
 #photo-block {
 	border-style: solid;
 	border-width: thick;;
