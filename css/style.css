@@ -18,7 +18,6 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	/*padding: 0;*/
 }
 
 /* Write all remaining styles here */
@@ -28,6 +27,7 @@ body {
 	border: solid;
 	font-size: 25pt;
 	font-weight: bold;
+	padding: 0;
 }
 
 #photo-block {
