@@ -23,10 +23,11 @@ body {
 
 /* Write all remaining styles here */
 h1 {
+	font-family: : 'baskerville';
 	color: #9caca6;
 	border: solid;
-		font-size: 25pt;
-		font-weight: bold;
+	font-size: 25pt;
+	font-weight: bold;
 }
 
 #photo-block {
