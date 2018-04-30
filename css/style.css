@@ -23,10 +23,10 @@ body {
 	color: #9caca6;
 	border: solid;
 
-	font-size: 50;
+	font-size: 50pt;
 }
 .header level-1 {
-	font-size: 100pt;
+	/*font-size: 100pt;*/
 }
 
 #photo-block {
